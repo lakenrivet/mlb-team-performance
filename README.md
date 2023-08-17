@@ -1,1 +1,5 @@
-# mlb-team-performance
+Included in this repo is a project that assesses MLB team and player performance. First, the ideal exponent in the Pythagorean Winning Percentage (https://www.mlb.com/glossary/advanced-stats/pythagorean-winning-percentage) is considered as outlined in section 4.4 of Analyzing Baseball Data with R by Marchi and Albert. Then the three players with the most at-bats for the San Francisco Giants (2022 Season) were compared to the top three players from each team across the league. Finally, the impact of replacing on of SF's top players was examined by calculating runs above average as outlined in chapters 3 and 4 of Mathletics by Winston, Nestler, and Pelechrins.
+
+Be sure to check out the write-up in 'documentation' for a detailed report of data acquisition, methods, results, and analysis!
+
+Data used in this project was acquired from Sean Lahman’s Baseball Database (also available in the R package 'Lahman') and fangraphs.com. 
